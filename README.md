@@ -1,2 +1,2 @@
-# neural_composer_assignment
-music stuff
+# neural-composer-assignement
+Helper files for TDT76 neural composer assignment
